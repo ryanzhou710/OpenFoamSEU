@@ -1,2 +1,2 @@
 # OpenFoamSEU
-CHINA-UTAH
+Modelify the cfd code 
